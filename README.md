@@ -1,3 +1,4 @@
 # StormCode
 StormCode is a code editor!
-add better readme
+
+TODO: add better readme
