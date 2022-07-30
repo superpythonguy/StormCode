@@ -1,0 +1,18 @@
+settings:
+
+  Minimap: True # True / False
+
+  Font_size:
+    Font: "14" # Default for main font is 14
+    Minimapfont: "3" # Default for Minimap font is 3
+
+  Theme: # Default is Foreground=#F8F8F2 , Background=#272822
+    Foreground: "#F8F8F2"
+    Background: "#272822"
+
+  Syntax: # Colors for Syntax highlighting
+    Comment: "green"
+    Keyword: "#EF1DD3"
+    Builtin: "#0B1FF0"
+    String: "#F40307"
+    Definition: "#E0D81B"

@@ -288,7 +288,7 @@ file_menu.add_command(label="New",command=erase_text)
 file_menu.add_command(label="Quit",command=close)
 
 other_menu.add_command(label="Edit config file",command=edit_config)
-other_menu.add_command(label="Open PPI",command=PPI) #test
+other_menu.add_command(label="Open PPI",command=PPI) 
 
 ############# Start App ########################
 
